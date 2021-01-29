@@ -26,6 +26,5 @@ def FaceCropped(full_path, extra='face', show=False):
         cv2.destroyAllWindows()
 
 
-```
-Save faces of all images  with face recognition
-```
+
+# Save faces of all images  with face recognition
